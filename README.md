@@ -3,4 +3,5 @@
  nd player preferences, discern market trends, and gauge the impact of factors on sales.
 
 - **Data Analysis process**
-![Uploading image.png…]()
+![image](https://github.com/ShreyaMPadmashali/Video-Games-Sales-analysis/assets/85627970/a7b666e2-cc79-4643-9637-cae5211e79e4)
+
