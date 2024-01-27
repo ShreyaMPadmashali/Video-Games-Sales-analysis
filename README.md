@@ -2,6 +2,5 @@
  Analyze video game sales data to uncover industry insights: Identify top sellers, understa
  nd player preferences, discern market trends, and gauge the impact of factors on sales.
 
-- **Data Analysis process**
-![image](https://github.com/ShreyaMPadmashali/Video-Games-Sales-analysis/assets/85627970/a7b666e2-cc79-4643-9637-cae5211e79e4)
+# Kaggle link : <a href ="https://www.kaggle.com/code/shreyampadmashali/comprehensive-analysis-of-video-game-sales"> Kaggle</a>
 
